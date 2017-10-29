@@ -1,0 +1,1 @@
+﻿data structure solve problems for the HackerRank with Golang
